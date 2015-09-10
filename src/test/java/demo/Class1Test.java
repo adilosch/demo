@@ -27,7 +27,7 @@ public class Class1Test {
 
 		Class1 class1 = new Class1();
 		
-		assertFalse(class1.add(3, 2) == 5);
+		assertTrue(class1.add(3, 2) == 5);
 	}
 
 
