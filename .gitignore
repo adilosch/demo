@@ -12,3 +12,10 @@
 hs_err_pid*
 .classpath
 .project
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/demo.Class1Test.txt
+target/surefire-reports/TEST-demo.Class1Test.xml
